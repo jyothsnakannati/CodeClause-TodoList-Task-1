@@ -1,2 +1,2 @@
 # CodeClause-TodoList-Task-1
-![todolist](https://github.com/jyothsnakannati/CodeClause-TodoList-Task-1/assets/121303710/537fa951-7f54-4b31-8937-8dd99c07e2eb)
+![todolist1](https://github.com/jyothsnakannati/CodeClause-TodoList-Task-1/assets/121303710/ff1f4e0f-6d97-46de-8fff-e6ce73758855)
